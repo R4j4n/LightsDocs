@@ -27,9 +27,8 @@
 - [Other product categories]
 
 #### Video Showcase
-[![Video Thumbnail](videos/vendor1_thumbnail.jpg)](videos/vendor1_demo.mp4)
 
-*Click the image above to download and view the video*
+
 
 Alternate viewing options:
 - [Download MP4 video](videos/vendor1_demo.mp4)
